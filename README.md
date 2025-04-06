@@ -1,6 +1,6 @@
 # Renostr
 
-*Note: this is a WIP pre-alpha project.*
+_Note: this is a WIP pre-alpha project._
 
 Renostr is a [Nostr](https://nostr.com/) <=> [XMPP](http://xmpp.org/) bridge which allows bidirectional communication between the two protocols.
 
