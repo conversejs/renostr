@@ -1,0 +1,24 @@
+{
+  "name": "renostr",
+  "version": "0.0.1",
+  "description": "A Nostr/XMPP bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conversejs/renostr.git"
+  },
+  "keywords": [
+    "XMPP",
+    "Nostr",
+    "bridge"
+  ],
+  "author": "JC Brand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conversejs/renostr/issues"
+  },
+  "homepage": "https://github.com/conversejs/renostr#readme"
+}
